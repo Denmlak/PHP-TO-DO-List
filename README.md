@@ -6,8 +6,8 @@ Full responsive in different screen sizes.
 <ul>
 <li>Html5</li>
 <li>CSS3</li>
-<li>PHP</li>
-<li>MySQL</li>
+<li>PHP 7.2.10</li>
+<li>MySQL 5.6 / MariaDB</li>
 </ul>
 <h4>Features:</h4>
 <ul>
