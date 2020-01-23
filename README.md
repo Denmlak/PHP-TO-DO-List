@@ -21,5 +21,7 @@ Full responsive in different screen sizes.
   <li>Import todolist.sql to your database</li>
   <li>Edit config.php and change host, user, password and database name</li>
 </ul>
+<h4>Preview pictures:</h4>
+<img src="https://i.ibb.co/0F7k7BQ/Untitled-2.jpg" alt="Untitled-2" border="0">
 
 
