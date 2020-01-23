@@ -1,6 +1,6 @@
 <h3>TO-DO List app</h3>
 
-Simple PHP/MySQL To-Do list app.
+Simple LAMP stack PHP/MySQL To-Do list app.
 Full responsive in different screen sizes.
 <h4>Technologies Used:</h4>
 <ul>
