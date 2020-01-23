@@ -1,4 +1,4 @@
-#<h3>TO-DO List app</h3>
+<h3>TO-DO List app</h3>
 
 Simple PHP/MySQL To-Do list app.
 Full responsive in different screen sizes.
