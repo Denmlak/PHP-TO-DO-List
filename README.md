@@ -6,7 +6,8 @@ Full responsive in different screen sizes.
 <ul>
 <li>Html5</li>
 <li>CSS3</li>
-<li>React.js</li>
+<li>PHP</li>
+<li>MySQL</li>
 </ul>
 <h4>Features:</h4>
 <ul>
