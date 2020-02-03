@@ -12,7 +12,7 @@ Full responsive in different screen sizes.
 <h4>Features:</h4>
 <ul>
   <li>Sign Up</li>
-  <li>Log In/ Log out</li>
+  <li>Log In/ Log Out</li>
   <li>Add/Edit/Delete Task</li>
 </ul>
 <h4>How to use:</h4>
